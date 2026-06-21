@@ -5,3 +5,4 @@ dist/
 .env
 .env.local
 .vercel
+assets/tutorial.mp4
