@@ -1,0 +1,22 @@
+{
+  "name": "mastercondos",
+  "version": "1.0.0",
+  "description": "Master Condos - Site de jogos exclusivos do Roblox",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite preview"
+  },
+  "keywords": [
+    "roblox",
+    "games",
+    "condo"
+  ],
+  "author": "Master Condos",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
